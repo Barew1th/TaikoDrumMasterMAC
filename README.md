@@ -16,7 +16,7 @@
 
 Step1. 桌面新增資料夾<br>
 Step2. 在要存入檔案的資料夾中右鍵選擇在「終端機」中打開或是 ⌘+space 輸入terminal，利用cd切換至要放入檔案的資料夾<br>
-Step3. 輸入 git clone https://github.com/Barew1th/TaikoDrumMasterMAC.git<br>
+Step3. 輸入 `git clone https://github.com/Barew1th/TaikoDrumMasterMAC.git`<br>
 Step4. 在資料夾中找到名為TaikoDrumMaster的資料夾並打開，找到副檔名為.app的檔案點擊開啟即可遊玩 p.s.第一次開啟需等待編譯<br><br>
 
 ## 🎮 遊玩說明
